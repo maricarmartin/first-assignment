@@ -1,2 +1,2 @@
 # first-assignment
-First Assignment - Challenge02
+First assignment found in Challenge02 file.
